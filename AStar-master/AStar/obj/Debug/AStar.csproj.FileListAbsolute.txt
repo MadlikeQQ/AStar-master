@@ -1,0 +1,12 @@
+c:\users\rkaybyshev\documents\visual studio 2012\Projects\AStar\AStar\bin\Debug\AStar.exe.config
+c:\users\rkaybyshev\documents\visual studio 2012\Projects\AStar\AStar\bin\Debug\AStar.exe
+c:\users\rkaybyshev\documents\visual studio 2012\Projects\AStar\AStar\bin\Debug\AStar.pdb
+c:\users\rkaybyshev\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+c:\users\rkaybyshev\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.exe
+c:\users\rkaybyshev\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\George\Desktop\AStar-master\AStar-master\AStar\bin\Debug\AStar.exe.config
+C:\Users\George\Desktop\AStar-master\AStar-master\AStar\obj\Debug\AStar.exe
+C:\Users\George\Desktop\AStar-master\AStar-master\AStar\obj\Debug\AStar.pdb
+C:\Users\George\Desktop\AStar-master\AStar-master\AStar\bin\Debug\AStar.exe
+C:\Users\George\Desktop\AStar-master\AStar-master\AStar\bin\Debug\AStar.pdb
+C:\Users\George\Desktop\AStar-master\AStar-master\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
