@@ -3,8 +3,6 @@
 This project is an implementation of the A* pathfinding algorithm.
 Created as an assignment for  [Introduction to Artificial Intelligence] at [ntua].
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 Based on the free version of Aron Grandberg's implementation aimed at the Unity3D Engine
 https://arongranberg.com/astar/
 
