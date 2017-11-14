@@ -13,5 +13,5 @@ Credits to Aron Grandberg for the free version of his A* Algorithm. We could not
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
    [ntua]: <http://ece.ntua.gr>
-   [Introduction to Artificial Intelligence]: <http://www.ece.ntua.gr/en/education/undergraduate?view=ugcourse&id=83>
+   [Introduction to Artificial Intelligence]: <https://www.ece.ntua.gr/en/undergraduate/courses/61>
    [AIPathsGraphics]: <https://github.com/kusius/AIPathsGraphics>
